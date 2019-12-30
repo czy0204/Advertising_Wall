@@ -1,4 +1,4 @@
-# GGQ
+# Advertising Wall
 
 Java课程设计：广告墙
 # 分工安排：
