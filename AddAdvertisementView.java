@@ -27,12 +27,12 @@ public class AddAdvertisementView extends JPanel {
       inputWord = new JTextArea();
       inputWord.setLineWrap(true);
       inputWord.setWrapStyleWord(true);
-      inputWord.setFont(new Font("����",Font.BOLD,20));
-      inputPictureFile = new JButton("ѡ����ͼ���ļ�");
-      submit = new JButton("���ӹ��");
-      pNorth.add(new JLabel("���������к�"));
+      inputWord.setFont(new Font("宋体",Font.BOLD,20));
+      inputPictureFile = new JButton("选择广告图像文件");
+      submit = new JButton("添加广告");
+      pNorth.add(new JLabel("输入广告序列号"));
       pNorth.add(inputSerialNumber);
-      pNorth.add(new JLabel("���ı����������"));
+      pNorth.add(new JLabel("在文本区输入广告词"));
       pSouth.add(inputPictureFile);
       pSouth.add(submit);
       pSouth.add(hintMess);
