@@ -1,4 +1,4 @@
-# Advertising Wall
+# Advertising_Wall
 
 Java课程设计：广告墙
 # 分工安排：
